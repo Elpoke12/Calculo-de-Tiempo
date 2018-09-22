@@ -11,3 +11,6 @@
             Console.Write(stop.Subtract(start).TotalSeconds); Console.Write(" Segundos ");
 
             Console.ReadKey();
+	
+	
+	
